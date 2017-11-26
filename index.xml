@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://SeverineHabert.github.io/</link>
+    <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,47 +12,47 @@
     
     <item>
       <title>Poster Presentation: A Mixed-Reality Approach to Radiation-free Training of C-arm based Surgery</title>
-      <link>https://SeverineHabert.github.io/talk/miccaiposter/</link>
+      <link>/talk/miccaiposter/</link>
       <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://SeverineHabert.github.io/talk/miccaiposter/</guid>
+      <guid>/talk/miccaiposter/</guid>
       <description>&lt;p&gt;Our poster will be presented at the Poster Session 8.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Oral Presentation: A Novel Application of an RGBD augmented C-arm for Minimally Invasive Scoliosis Surgery Assistance</title>
-      <link>https://SeverineHabert.github.io/talk/aecaitalk/</link>
+      <title>A Mixed-Reality Approach to Radiation-Free Training of C-arm Based Surgery</title>
+      <link>/publication/miccai2017/</link>
       <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://SeverineHabert.github.io/talk/aecaitalk/</guid>
+      <guid>/publication/miccai2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oral Presentation: A Novel Application of an RGBD augmented C-arm for Minimally Invasive Scoliosis Surgery Assistance</title>
+      <link>/talk/aecaitalk/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/aecaitalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Novel Application of an RGBD augmented C-arm for Minimally Invasive Scoliosis Surgery Assistance</title>
-      <link>https://SeverineHabert.github.io/publication/aecai2017/</link>
+      <link>/publication/aecai2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://SeverineHabert.github.io/publication/aecai2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Novel Application of an RGBD augmented C-arm for Minimally Invasive Scoliosis Surgery Assistance</title>
-      <link>https://SeverineHabert.github.io/publication/miccai2017/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://SeverineHabert.github.io/publication/miccai2017/</guid>
+      <guid>/publication/aecai2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://SeverineHabert.github.io/project/deep-learning/</link>
+      <link>/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://SeverineHabert.github.io/project/deep-learning/</guid>
+      <guid>/project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -67,10 +67,19 @@
     
     <item>
       <title>External Project</title>
-      <link>https://SeverineHabert.github.io/project/example-external-project/</link>
+      <link>/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://SeverineHabert.github.io/project/example-external-project/</guid>
+      <guid>/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preclinical usability study of multiple augmented reality concepts for K-wire placement</title>
+      <link>/publication/fischer2015ipcai/</link>
+      <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fischer2015ipcai/</guid>
       <description></description>
     </item>
     

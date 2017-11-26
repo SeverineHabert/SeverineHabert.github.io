@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on </title>
-    <link>https://SeverineHabert.github.io/talk/</link>
+    <link>/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,20 +12,20 @@
     
     <item>
       <title>Poster Presentation: A Mixed-Reality Approach to Radiation-free Training of C-arm based Surgery</title>
-      <link>https://SeverineHabert.github.io/talk/miccaiposter/</link>
+      <link>/talk/miccaiposter/</link>
       <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://SeverineHabert.github.io/talk/miccaiposter/</guid>
+      <guid>/talk/miccaiposter/</guid>
       <description>&lt;p&gt;Our poster will be presented at the Poster Session 8.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Oral Presentation: A Novel Application of an RGBD augmented C-arm for Minimally Invasive Scoliosis Surgery Assistance</title>
-      <link>https://SeverineHabert.github.io/talk/aecaitalk/</link>
+      <link>/talk/aecaitalk/</link>
       <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://SeverineHabert.github.io/talk/aecaitalk/</guid>
+      <guid>/talk/aecaitalk/</guid>
       <description></description>
     </item>
     

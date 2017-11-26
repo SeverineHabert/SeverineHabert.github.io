@@ -2,29 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on </title>
-    <link>https://SeverineHabert.github.io/publication_types/1/</link>
+    <link>/publication_types/1/</link>
     <description>Recent content in 1 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Habert Séverine</copyright>
-    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Novel Application of an RGBD augmented C-arm for Minimally Invasive Scoliosis Surgery Assistance</title>
-      <link>https://SeverineHabert.github.io/publication/aecai2017/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <title>A Mixed-Reality Approach to Radiation-Free Training of C-arm Based Surgery</title>
+      <link>/publication/miccai2017/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://SeverineHabert.github.io/publication/aecai2017/</guid>
+      <guid>/publication/miccai2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Novel Application of an RGBD augmented C-arm for Minimally Invasive Scoliosis Surgery Assistance</title>
-      <link>https://SeverineHabert.github.io/publication/miccai2017/</link>
+      <link>/publication/aecai2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://SeverineHabert.github.io/publication/miccai2017/</guid>
+      <guid>/publication/aecai2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preclinical usability study of multiple augmented reality concepts for K-wire placement</title>
+      <link>/publication/fischer2015ipcai/</link>
+      <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fischer2015ipcai/</guid>
       <description></description>
     </item>
     

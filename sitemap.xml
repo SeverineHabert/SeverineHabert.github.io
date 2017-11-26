@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/talk/miccaiposter/</loc>
+      <loc>/talk/miccaiposter/</loc>
       <lastmod>2017-09-13T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/talk/aecaitalk/</loc>
+      <loc>/publication/miccai2017/</loc>
       <lastmod>2017-09-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +23,16 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/publication/aecai2017/</loc>
+      <loc>/talk/aecaitalk/</loc>
+      <lastmod>2017-09-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/aecai2017/</loc>
       <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,16 +41,7 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/publication/miccai2017/</loc>
-      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://SeverineHabert.github.io/tags/academic/</loc>
+      <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +50,7 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/post/</loc>
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +59,7 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/publication/</loc>
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/talk/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,7 +77,7 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/project/deep-learning/</loc>
+      <loc>/project/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,7 +86,7 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/project/example-external-project/</loc>
+      <loc>/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -95,7 +95,16 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/</loc>
+      <loc>/publication/fischer2015ipcai/</loc>
+      <lastmod>2016-01-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -105,8 +114,8 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/publication_types/1/</loc>
-      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+      <loc>/publication_types/1/</loc>
+      <lastmod>2017-09-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -115,7 +124,7 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -124,7 +133,7 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/tags/deep-learning/</loc>
+      <loc>/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -134,7 +143,7 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/tags/demo/</loc>
+      <loc>/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -144,7 +153,7 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/project/</loc>
+      <loc>/project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -154,8 +163,8 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/publication_types/</loc>
-      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+      <loc>/publication_types/</loc>
+      <lastmod>2017-09-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -164,7 +173,7 @@
     
     <url>
     
-      <loc>https://SeverineHabert.github.io/tags/</loc>
+      <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
